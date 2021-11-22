@@ -1,0 +1,37 @@
+import React, { Fragment } from 'react';
+import { CgMouse } from 'react-icons/all';
+import './Home.css';
+import Product from './Product.js';
+
+const product = {
+    name: "Blue Tshirt",
+    images: [{ url: "https://i.ibb.co/DRST11n.webp" }],
+    price: "200000",
+    _id: "chitat2k",
+};
+
+const Home = () => {
+    return (
+        <Fragment>
+            <div className="banner">
+                <p>Welcome to TDC Watches</p>
+                <h1>Find Amazing Product Below</h1>
+
+                <a href="#container">
+                    <button>
+                        Scroll <CgMouse />
+                    </button>
+                </a>
+            </div>
+
+            <h2 className="homeHeading">Featured Products</h2>
+
+            <div className="container" id="container">
+                <Product product={product} />
+            </div>
+        </Fragment>
+    );
+
+};
+
+export default Home;

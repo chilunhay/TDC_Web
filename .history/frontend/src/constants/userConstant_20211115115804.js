@@ -1,0 +1,9 @@
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+
+export const REGISTER__REQUEST = "REGISTER__REQUEST";
+export const REGISTER__SUCCESS = "REGISTER__SUCCESS";
+export const REGISTER__FAIL = "REGISTER__FAIL";
+
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
