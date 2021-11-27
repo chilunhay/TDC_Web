@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "61860ce2ed40eb69c15d51cd"
+  },
+  "name": "chilunhay",
+  "email": "chitat2k@gmail.com",
+  "password": "$2a$10$NLt6H9rLVgHKEwa71VBejeoAvOqnEkVbPgANxoeTRBzCh.E5fdmXC",
+  "avatar": {
+    "public_id": "avatars/dspsg4nysirai4vil2gb",
+    "url": "https://res.cloudinary.com/tdc-watches/image/upload/v1637040683/avatars/dspsg4nysirai4vil2gb.jpg"
+  },
+  "role": "admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-11-16T05:31:37.871Z"
+  },
+  "resetPasswordExpire": {
+    "$date": "2021-11-16T05:48:09.160Z"
+  },
+  "resetPasswordToken": "0171eb1d244354e9a1048a90b4dd1ae64561ae42335d54861f93c97bd24d2374"
+},{
+  "_id": {
+    "$oid": "618a2aad0eef9cb243610a4b"
+  },
+  "name": "temp",
+  "email": "temp@gmail.com",
+  "password": "$2a$10$Ji0Q8nyuLM6HrIxN.XZFSeD9tjkgJ3VqFeW3onicg1y0adnsDL9tq",
+  "avatar": {
+    "public_id": "this is a sample id",
+    "url": "profilepicUrl"
+  },
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619201b1ef26fbd5c64c0a21"
+  },
+  "name": "Tất Dục Chí",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$LhzB5HrdMlCw3RMy/cA03Of0EgAC/hEcCt5a2OPocz5.mkMs.7c9G",
+  "avatar": {
+    "public_id": "avatars/hx6ougt6dp8dntainzl5",
+    "url": "https://res.cloudinary.com/tdc-watches/image/upload/v1636958641/avatars/hx6ougt6dp8dntainzl5.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": "2021-11-15T06:44:01.676Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619214efd514676498f81fc5"
+  },
+  "name": "Tan Ne",
+  "email": "Tan@gmail.com",
+  "password": "$2a$10$xCR/5icdrmbaWju2G5Lco.3avudSwAvU1bafL.k1thfoa3kwfqCWC",
+  "avatar": {
+    "public_id": "avatars/vwvmdkhhw6yayk44okvb",
+    "url": "https://res.cloudinary.com/tdc-watches/image/upload/v1637034019/avatars/vwvmdkhhw6yayk44okvb.png"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2021-11-15T08:06:07.543Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61921c0deb6523a635c7f19f"
+  },
+  "name": "Tất Dục Chí",
+  "email": "chilunhay@gmail.com",
+  "password": "$2a$10$eZ1B7MszuY4Oby5TloJslef3KQmWM5HP6Gzb9ri/vo3SNNBhsiix6",
+  "avatar": {
+    "public_id": "avatars/kzturkgxidbbmruvveq5",
+    "url": "https://res.cloudinary.com/tdc-watches/image/upload/v1636965389/avatars/kzturkgxidbbmruvveq5.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2021-11-15T08:36:29.650Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619341fe9a55f4f3099a3b81"
+  },
+  "name": "Linh",
+  "email": "linh@gmail.com",
+  "password": "$2a$10$2SwCCAfJ12Z4jxroT7.CEOnoIoVtCWykMftobDZH5HK942JcB5MlO",
+  "avatar": {
+    "public_id": "avatars/zkex1d92axsxgln33b3x",
+    "url": "https://res.cloudinary.com/tdc-watches/image/upload/v1637575528/avatars/zkex1d92axsxgln33b3x.png"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": "2021-11-16T05:30:38.525Z"
+  },
+  "__v": 0
+}]

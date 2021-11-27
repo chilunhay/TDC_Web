@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "619bbde9acebcc37166bad75"
+  },
+  "shippingInfo": {
+    "address": "123 Trần Văn Ơn",
+    "province": "Tỉnh Bình Dương",
+    "district": "Phú Lợi",
+    "ward": "Phú Hòa",
+    "phoneNo": 1234567890
+  },
+  "orderItems": [
+    {
+      "name": "MONTBLANC TimeWalker Automatic Black Dial Men's Watch 116059",
+      "price": 1099,
+      "quantity": 2,
+      "image": "https://res.cloudinary.com/tdc-watches/image/upload/v1637594275/products/bzxqu3xavfmyzjylr0qq.jpg",
+      "product": {
+        "$oid": "6183568c083da2244ad46511"
+      },
+      "_id": {
+        "$oid": "619bbde9acebcc37166bad76"
+      }
+    },
+    {
+      "name": "LONGINES Master Collection Moonphase Men's Watch L2.673.4.78.3",
+      "price": 2325,
+      "quantity": 2,
+      "image": "https://res.cloudinary.com/tdc-watches/image/upload/v1637594637/products/m6d7lmig11ri3t9pujlv.jpg",
+      "product": {
+        "$oid": "618a28de3bd5692c5411f30f"
+      },
+      "_id": {
+        "$oid": "619bbde9acebcc37166bad77"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "619341fe9a55f4f3099a3b81"
+  },
+  "paymentInfo": {
+    "id": "pi_3JyetPEDkjjCzHbl0S8gDOkS",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2021-11-22T15:57:29.146Z"
+  },
+  "itemsPrice": 6848,
+  "taxPrice": 684.8000000000001,
+  "shippingPrice": 0,
+  "totalPrice": 7532.8,
+  "orderStatus": "Shipped",
+  "createAt": {
+    "$date": "2021-11-22T15:57:29.153Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619c428cebe536cc64af5e61"
+  },
+  "shippingInfo": {
+    "address": "123 Trần Văn Ơn",
+    "province": "Tỉnh Bình Dương",
+    "district": "Phú Lợi",
+    "ward": "Phú Hòa",
+    "phoneNo": 1234567890
+  },
+  "orderItems": [
+    {
+      "name": "LONGINES Master Collection Moonphase Men's Watch L2.673.4.78.3",
+      "price": 2325,
+      "quantity": 3,
+      "image": "https://res.cloudinary.com/tdc-watches/image/upload/v1637594637/products/m6d7lmig11ri3t9pujlv.jpg",
+      "product": {
+        "$oid": "618a28de3bd5692c5411f30f"
+      },
+      "_id": {
+        "$oid": "619c428cebe536cc64af5e62"
+      }
+    },
+    {
+      "name": "OMEGA De Ville Prestige Blue Dial Men's Watch 42413402003001",
+      "price": 2650,
+      "quantity": 3,
+      "image": "https://res.cloudinary.com/tdc-watches/image/upload/v1637594892/products/jbdibnvvian0cmmetpk9.jpg",
+      "product": {
+        "$oid": "6190f2a37cf6e7cb70bea947"
+      },
+      "_id": {
+        "$oid": "619c428cebe536cc64af5e63"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "619341fe9a55f4f3099a3b81"
+  },
+  "paymentInfo": {
+    "id": "pi_3Jynj7EDkjjCzHbl1jFu1fMX",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2021-11-23T01:23:24.520Z"
+  },
+  "itemsPrice": 14925,
+  "taxPrice": 1492.5,
+  "shippingPrice": 0,
+  "totalPrice": 16417.5,
+  "orderStatus": "Processing",
+  "createAt": {
+    "$date": "2021-11-23T01:23:24.525Z"
+  },
+  "__v": 0
+}]
